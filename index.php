@@ -9,6 +9,7 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2090477157644777"
      crossorigin="anonymous"></script>
      <meta name="google-adsense-account" content="ca-pub-2090477157644777">
+    <script defer src="/_vercel/insights/script.js"></script>
 </head>
 <body>
 
